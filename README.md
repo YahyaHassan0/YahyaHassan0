@@ -2,7 +2,7 @@
  
  welcome to my github page
  
- here you can see my humble work and how I’m progressing through my journey
+ here you can see my work and how I’m progressing through my journey
 
 - 📫 How to reach me yah.hassan3@gmail.com
 
